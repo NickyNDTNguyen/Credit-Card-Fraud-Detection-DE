@@ -1,0 +1,2 @@
+1. Load data from files and MongoDB into AWS S3
+2. Transform and load data into Lookup table using PySaprk
